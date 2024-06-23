@@ -71,9 +71,9 @@ Integrating Immersive View into your dog walking tracker app could significantly
 
 Here are a few tagline ideas to pair with the name "Tiny Trek":
 
-[ ] Tiny Trek: Big Adventures with Your Little Companion
-[ ] Tiny Trek: Explore the World with Your Miniature Schnauzer
-[ ] Tiny Trek: Map Your Dog Walks in 3D
-[ ] Tiny Trek: The Ultimate Dog Walking App
-[ ] Tiny Trek: Where Every Walk is an Adventure
+- [ ] Tiny Trek: Big Adventures with Your Little Companion
+- [ ] Tiny Trek: Explore the World with Your Miniature Schnauzer
+- [ ] Tiny Trek: Map Your Dog Walks in 3D
+- [ ] Tiny Trek: The Ultimate Dog Walking App
+- [ ] Tiny Trek: Where Every Walk is an Adventure
 
