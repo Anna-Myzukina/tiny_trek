@@ -1,6 +1,8 @@
 # tiny_trek
 
-A new Flutter project.
+A new Flutter project for AnimalHack 2024
+
+AnimalHack is a platform that inspires you to think of needs, wants and challenges in interacting with animals. Solutions can take many different forms!
 
 ## Getting Started
 
@@ -15,7 +17,21 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-That's a fantastic idea! Google Maps' Immersive View could be an incredibly valuable addition to your dog walking tracker app, providing a unique and engaging user experience. Here's how it could enhance your app:
+Website: https://animalhack.org/ 
+
+Discord: https://discord.gg/ZBbTxuxND2 
+
+Email: animalhack1@gmail.com
+
+Apparel (T-shirt 1): https://www.bonfire.com/animalhack-2024-t-shirt/
+
+Apparel (T-shirt 2): https://www.bonfire.com/animalhack-2024-t-shirt-1/
+
+Apparel (Hoodie): https://www.bonfire.com/animalhack-2024-hoodie/
+
+Mug cup: https://www.bonfire.com/animalhack-2024-mug/ ;
+
+Google Maps' Immersive View could be an incredibly valuable addition to your dog walking tracker app, providing a unique and engaging user experience. Here's how it could enhance your app:
 
 **Enhanced Route Planning and Exploration:**
 
